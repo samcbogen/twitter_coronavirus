@@ -87,5 +87,9 @@ and so is impractical.
    ```
    $ ./src/visualize.py --input_path=PATH --key=HASHTAG | head > visuals/HASHTAG
    ```
+   
+## Results
+
+Ultimately, as can be seen in the json files, it is clear that there was a spike in the usage of the tracked hashtags in March 2020, particularly around March 10, which makes sense as it is right around the time when the first COVID-19 lockdown was instituted in the United States. The hashtags' usage was moderate before that, likely because COVID-19 was already prevalent in China prior to arriving in the United States. 
 
 
